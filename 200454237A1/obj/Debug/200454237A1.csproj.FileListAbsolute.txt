@@ -1,0 +1,9 @@
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\bin\Debug\200454237A1.exe.config
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\bin\Debug\200454237A1.exe
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\bin\Debug\200454237A1.pdb
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\obj\Debug\200454237A1.csprojAssemblyReference.cache
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\obj\Debug\_200454237A1.Form1.resources
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\obj\Debug\_200454237A1.Properties.Resources.resources
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\obj\Debug\200454237A1.csproj.GenerateResource.cache
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\obj\Debug\200454237A1.exe
+C:\Users\crypt\Desktop\Programming\C#\200454237A1\200454237A1\obj\Debug\200454237A1.pdb
